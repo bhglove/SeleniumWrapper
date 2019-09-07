@@ -1,4 +1,6 @@
-package main.com.github.bhglove.Selenium.java;
+package main.com.github.bhglove.Selenium.java.library;
+
+import main.com.github.bhglove.Selenium.java.library.Driver;
 
 /**
  * Created by Benjamin on 7/12/19.

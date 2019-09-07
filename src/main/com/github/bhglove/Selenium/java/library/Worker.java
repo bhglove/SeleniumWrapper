@@ -1,6 +1,8 @@
-package main.com.github.bhglove.Selenium.java;
+package main.com.github.bhglove.Selenium.java.library;
 
-import java.net.URL;
+import main.com.github.bhglove.Selenium.java.library.Driver;
+import main.com.github.bhglove.Selenium.java.library.WebPage;
+
 import java.util.ArrayList;
 
 /**
